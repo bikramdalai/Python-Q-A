@@ -6,4 +6,5 @@ for i in x:
         l1.append(i)
     else:
         l2.append(i)
-print(l1, l2, )
+print('EVEN NUMBER:',l1)
+print('ODD NUMBER:',l2)
